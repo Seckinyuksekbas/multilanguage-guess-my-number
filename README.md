@@ -48,10 +48,11 @@ To run this project locally:
 1. **Oyunu Başlatın**: Oyun başladığında, sistem tarafından 1 ile 20 arasında rastgele bir sayı seçilir, ancak bu sayı gizli tutulur.
 2. **Bir Tahmin Yapın**: 1 ile 20 arasında bir sayı girin ve tahmininizi onaylamak için "Kontrol Et" butonuna tıklayın.
 
-3. **Geri Bildirim Alın**:
-   - Eğer doğru sayıyı tahmin ederseniz, oyun başarı mesajı gösterir.
-   - Eğer tahmininiz çok yüksek veya çok düşükse, oyunda bir sonraki tahmininizi ayarlamanız için size rehberlik edilir.
-   - Eğer tahmininiz gizli sayıya çok yakınsa (±1 farkla), "Çok yaklaştın!" mesajını alırsınız.
+   **Geri Bildirim Alın**:
+
+- Eğer doğru sayıyı tahmin ederseniz, oyun başarı mesajı gösterir.
+- Eğer tahmininiz çok yüksek veya çok düşükse, oyunda bir sonraki tahmininizi ayarlamanız için size rehberlik edilir.
+- Eğer tahmininiz gizli sayıya çok yakınsa (±1 farkla), "Çok yaklaştın!" mesajını alırsınız.
 
 ## İpuçları
 
