@@ -43,7 +43,7 @@ Oyunu Başlatın: Oyun başladığında, sistem tarafından 1 ile 20 arasında r
 
 Bir Tahmin Yapın: 1 ile 20 arasında bir sayı girin ve tahmininizi onaylamak için "Kontrol Et" butonuna tıklayın.
 
-*#*Geri Bildirim Alın:
+Geri Bildirim Alın:
 
 *Eğer doğru sayıyı tahmin ederseniz, oyun başarı mesajı gösterir.
 *Eğer tahmininiz çok yüksek veya çok düşükse, oyunda bir sonraki tahmininizi ayarlamanız için size rehberlik edilir.
